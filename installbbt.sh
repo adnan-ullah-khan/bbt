@@ -17,6 +17,11 @@ echo "Installing dirsearch"
 git clone https://github.com/maurosoria/dirsearch.git
 python $(pwd)/dirsearch/setup.py install
 
+#install arjun
+echo "Installing arjun"
+git clone https://github.com/s0md3v/Arjun.git
+python $(pwd)/Arjun/setup install
+
 #install smuggler
 echo "Installing smuggler"
 git clone https://github.com/defparam/smuggler.git
