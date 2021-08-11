@@ -20,3 +20,7 @@ python $(pwd)/dirsearch/setup.py install
 #install smuggler
 echo "Installing smuggler"
 git clone https://github.com/defparam/smuggler.git
+
+#install seclists
+echo "Installing seclists"
+git clone https://github.com/danielmiessler/SecLists.git
