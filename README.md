@@ -5,6 +5,7 @@ Bug bounty toolkit is simple script to install most popular bug hunting tools wh
 <ul>
   <li>Knockpy</li>
   <li>Dirsearch</li>
+  <li>Arjun</li>
   <li>Smuggler</li>
   <li>Seclists</li>
 </ul>
