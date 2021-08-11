@@ -2,12 +2,17 @@
 Bug bounty toolkit is simple script to install most popular bug hunting tools while looking for vulnerabilities in systems. :)
 
 # Tools
-Knockpy
-Dirsearch
-Smuggler
-
+<ul>
+  <li>Knockpy</li>
+  <li>Dirsearch</li>
+  <li>Smuggler</li>
+</ul>
+  
 # Installation
-git clone https://github.com/adnan-ullah-khan/bbt.git
-cd bbt
-chmod +x installbbt.sh
-./installbbt.sh
+<ul>
+  <li>git clone https://github.com/adnan-ullah-khan/bbt.git</li>
+  <li>cd bbt</li>
+  <li>chmod +x installbbt.sh</li>
+  <li>./installbbt.sh</li>
+</ul>
+  
