@@ -12,6 +12,11 @@ echo "Installing knockpy"
 git clone https://github.com/guelfoweb/knock.git
 python $(pwd)/knock/setup.py install
 
+#install sublist3r
+echo "Installing sublist3r"
+git clone https://github.com/aboul3la/Sublist3r.git
+python $(pwd)/Sublist3r/setup.py install
+
 #install dirsearch
 echo "Installing dirsearch"
 git clone https://github.com/maurosoria/dirsearch.git
