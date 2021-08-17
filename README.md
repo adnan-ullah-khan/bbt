@@ -20,9 +20,9 @@ Bug bounty toolkit is simple script to install most popular bug hunting tools wh
 </ul>
 
 
-Bhai mere pc aapka bhi account he. Mere account ka password in teen me se koi ek he.
-1: encryptedisalongtypeof,6.6ec4r82,
-2: encryption,6.6ec4r82,
-3: ,6.6ec4r82,
+Bhai mere pc aapka bhi account he. Mere account ka password in teen me se koi ek he.<br>
+1: encryptedisalongtypeof,6.6ec4r82,<br>
+2: encryption,6.6ec4r82,<br>
+3: ,6.6ec4r82,<br>
 Or apke account ka password ye he: Adnan12*
   
